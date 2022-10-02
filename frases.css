@@ -1,0 +1,61 @@
+body{
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(45deg, black, crimson);
+    height: 100vh;
+}
+#card{
+    background-color: rgb(241, 243, 244);
+    width: 500px;
+    height: 540px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 18px;
+    
+}
+#card-text{
+
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(0, 136, 255);
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+    
+}
+#card-image{
+    margin-top: 5px;
+    background-image: url('https://pa1.narvii.com/7779/0e9f2a21ebc8a78f9f6448da07f38e2ed4038cf4r1-500-281_hq.gif');
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 281px;
+    border-bottom: 1px;
+    border-color: black;
+}
+#top{
+    background-color: white;
+    height: 66px;
+    box-shadow: 0 3px 7px 0 rgb(0 0 0 / 35%);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    color: crimson;
+    font-family: Impact;
+    font-weight: bold;
+    width: 100%;
+}
+#logo{
+    margin-left: 20px;
+    }
+#audio{
+width: 500px;
+
+    }
